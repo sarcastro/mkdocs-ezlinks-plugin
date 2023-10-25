@@ -118,7 +118,7 @@ Determines whether to scan for wikilinks or not (See [WikiLink Support](#wikilin
 >  This plugin feature does not function well when the 'wikilinks' markdown extension is enabled. This plugin's functionality should replace the need for enabling said extension.
 
 ## reference_links
-Determins whether to scan for Reference Links or not (See [Reference Links](https://spec.commonmark.org/0.29/#reference-link), e.g. `[foo]: /bar "Foo Bar"`)
+Determines whether to scan for Reference Links or not (See [Reference Links](https://spec.commonmark.org/0.29/#reference-link), e.g. `[foo]: /bar "Foo Bar"`)
 
 # Features
 ## Filename Links
@@ -183,5 +183,5 @@ This work is highly inspired from the following plugins:
   - [mkdocs-roamlinks-plugin](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin)
   - [mkdocs-abs-rel-plugin](https://github.com/sander76/mkdocs-abs-rel-plugin)
 
-  I have combined some the features of these plugins, fixed several existing bugs, and am adding features in order to
+  I have combined some of the features of these plugins, fixed several existing bugs, and am adding features in order to
   provide a cohesive, up-to-date, and maintained solution for the mkdocs community.
